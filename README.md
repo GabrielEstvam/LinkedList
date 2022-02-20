@@ -1,5 +1,5 @@
 # Linked List
-<p>Em uma corrida automobilística a definição do grid de largada e definida por meio do Treino classificatório. Este é dividido em três sessões eliminatórias, ficando fora sete carros/pilotos em cada, até que os dez mais rápidos da segunda etapa fazem uma final.</p>
+<p> Em uma corrida automobilística a definição do grid de largada e definida por meio do Treino classificatório. Este é dividido em três sessões eliminatórias, ficando fora sete carros/pilotos em cada, até que os dez mais rápidos da segunda etapa fazem uma final.</p>
 <p>Desenvolva um programa, utilizando a linguagem Java, que auxilie na definição das posições de largada de cada piloto na corrida.</p>
 <ul>
   <li>Os carros deverão ser organizados de acordo com o tempo obtido por cada piloto.</li>
